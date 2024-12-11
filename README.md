@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development projects, especially those involving appointment booking systems, beauty salon apps, or other user-centric applications.
 - 📫 How to reach me: Likhithamgowda.cv@gmail.com
 - 😄 Pronouns: she
--⚡ Fun fact: I love experimenting with UI designs that enhance user experience while keeping them simple and elegant!
+-⚡ Fun fact: I love experimenting with UI designs that enhance user experience while keeping them simple and elegant!  
 
 <!---
 Lavanyaproject1998/Lavanyaproject1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
