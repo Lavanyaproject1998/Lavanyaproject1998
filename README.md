@@ -1,4 +1,4 @@
-* 👋 Hi, I’m **@Lavanyaproject1998**
+* 👋 Hi, I’m **Likhitha M**
 * 👀 I’m interested in creating innovative and scalable **web applications** using **Java, HTML, CSS, JavaScript, React.js, Node.js, and SQL**.
 * 🌱 I’m currently improving my skills in **full‑stack development**, focusing on **backend logic, REST APIs, database design, and application architecture**.
 * 💻 I enjoy building **real‑world projects** like appointment booking systems, dashboards, admin panels, and full‑stack web applications.
